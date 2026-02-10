@@ -1,10 +1,10 @@
 # Nano-PKPD
 
-## Manuscript title: Nano-PKPD database development and machine learning analysis on nanoparticle delivery and antitumor efficacy in mice
+## Manuscript title: Analysis of Pharmacokinetic-Pharmacodynamic Relationships of Nanoparticles Against Tumors
 
 **Manuscript status:** Under review
 
-**Last Updated:** December 19, 2025  
+**Last Updated:** February 10, 2026  
 
 ---
 ## 📘 Overview
